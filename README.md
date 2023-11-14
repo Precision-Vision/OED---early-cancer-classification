@@ -1,2 +1,4 @@
-# OED---early-cancer-classification
-Multiple-Instance-Learning Pipeline for Clinical Images
+# OED-early-cancer-detection
+Oral epithelial dysplasia classification of clinical images using Multiple Instance Learning (Keras)
+
+
